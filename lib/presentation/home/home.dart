@@ -8,6 +8,8 @@ import 'package:food_shop/constants/style.dart';
 import 'package:food_shop/models/food.dart';
 import 'package:food_shop/routing/app_router.gr.dart';
 
+//ih
+
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});
 
